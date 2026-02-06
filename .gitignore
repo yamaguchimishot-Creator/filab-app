@@ -1,18 +1,12 @@
-# dependencies
+## dependencies
 node_modules/
 
 # next.js
 .next/
-out/
+
+# runtime data
+.data/
 
 # env
-.env*
 .env.local
-
-# logs
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-
-# OS
-.DS_Store
+.env
